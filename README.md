@@ -1,4 +1,4 @@
-# **Test Case Data Scientist Documentation**
+# **Technical Case Data Scientist Documentation**
 
 ## **📘 Dataset Background**
 
