@@ -56,6 +56,7 @@ The variables with the strongest correlation to churn are:
 ## **3. Group customers into segments (e.g., based on usage and tenure). What strategies would you apply to each segment**
 
 📊 Customer Segmentation Interpretation
+
 💠 Segment 0 (Red) – Low Tenure & Short Session Duration
 - Traits: New customers with limited usage.
 - Interpretation: Likely just signed up and not yet fully engage
